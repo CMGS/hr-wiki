@@ -1,6 +1,8 @@
 hr-wiki
 =======
 
+http://fleurer-lee.com/hr-wiki/
+
 面向程序员群体的劳动权益小知识库
 
 我读书少，你们别骗我...
