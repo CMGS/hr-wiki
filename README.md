@@ -9,7 +9,7 @@ hr-wiki
 gem i jekyll
 git clone git@github.com:Fleurer/hr-wiki.git
 cd hr-wiki
-jekyll serve --watch
+jekyll serve --watch --baseurl=''
 ```
 
 License
@@ -17,8 +17,8 @@ License
 
 GPLv3
 
-Contribute
-----------
+Contribute ❤
+-------------
 
 - fork 本仓库
 - 添加你的小知识
