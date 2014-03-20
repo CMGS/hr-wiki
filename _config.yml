@@ -1,3 +1,4 @@
 name: HR Wiki
 markdown: redcarpet
 pygments: true
+baseurl: http://fleurer.github.com/hr-wiki
